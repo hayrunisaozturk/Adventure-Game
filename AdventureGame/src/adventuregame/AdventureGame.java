@@ -10,6 +10,9 @@ public class AdventureGame {
         
        Game game= new Game();
        game.login();
+
+        System.out.println("Welcome to Adventure Game");
+
      
 
        
